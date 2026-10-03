@@ -81,6 +81,11 @@ Para salvar as fotos oficiais do estabelecimento (Hamburgueres no fogo, Porçõe
 * **Instagram:** [@macdooburguer](https://instagram.com/macdooburguer)
 * **Slogan (neon do salão):** "O sabor é viciante!"
 * **Lanches citados por clientes:** *Boomerang* (premiado) e *Catu Frango*.
+* **Blend da casa:** 150g, 75% acém + 25% ponta de peito. Pão brioche 60g.
+* **Cardápio real (Anota AI) — ingredientes confirmados:**
+  * **Monsterdoo** (foto `mac9`): pão brioche, 2 blends de 150g, muito cheddar, 6 fatias de bacon, picles de pepino, tomate, alface americana, barbecue artesanal e maionese artesanal de rúcula com wasabi.
+  * **Double Bacon** (foto `mac8`): pão brioche, 2 blends de 150g, 2 fatias de cheddar, 6 fatias de bacon, ketchup americano artesanal e maionese artesanal de rúcula com wasabi.
+  * **Salada Burger** (foto `mac1` / vídeo do hero): pão brioche, 1 blend de 150g, cream cheese Catupiry original, alface americana, tomate, picles, barbecue artesanal e maionese de wasabi com rúcula.
 * **Preços:** **NUNCA exibir preços no site.** Todo pedido é direcionado ao Anota AI.
 * **Combos/promoções:** fora do site por enquanto.
 
